@@ -1,0 +1,4 @@
+## pip install -r requirements.txt to install all the required library and frameworks in the file.
+Numpy
+Pandas
+-e .
